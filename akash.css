@@ -1,0 +1,33 @@
+   h1{
+            background-color: rgb(160, 235, 235);
+            text-align: center; 
+        }
+        h2{
+            color: crimson;
+            text-align: center;
+            background-color: aqua;
+            
+        }
+        body{
+            font-size: large;
+            font-style: italic;
+            font-family: 'Courier New', Courier, monospace;
+            background-color: rgb(216, 128, 128);
+        }
+         img{   
+        border-radius: 15px;
+        border: 3px solid black;
+        margin: 10px;
+        
+    }
+    p{
+        font-size: 20px;
+        color: rgba(0, 0, 139, 0.852);
+    }
+    button{
+        background-color: black;
+        color: wheat;
+        padding: 10px;
+        border-radius: 10px;
+    }
+      
